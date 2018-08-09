@@ -2,6 +2,14 @@
 
 Python modules that implement various algorithms relevant to coding interviews.
 
+## Graphs
+
+### Traversal
+
+[graphs/traversal.py]
+
+Breadth-first graph traversal.
+
 ## Searching
 
 ### Binary Search
