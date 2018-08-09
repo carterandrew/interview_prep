@@ -8,7 +8,8 @@ Python modules that implement various algorithms relevant to coding interviews.
 
 [graphs/traversal.py]
 
-Breadth-first graph traversal.
+- Breadth-first graph traversal.
+- Depth-first graph traversal (iterative).
 
 ## Searching
 
