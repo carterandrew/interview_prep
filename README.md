@@ -11,6 +11,17 @@ Python modules that implement various algorithms relevant to coding interviews.
 - Breadth-first graph traversal.
 - Depth-first graph traversal (iterative).
 
+
+## Trees
+
+### Traversal
+
+[trees/traversal.py]
+
+- In-order
+- Pre-order
+- Post-order
+
 ## Searching
 
 ### Binary Search
